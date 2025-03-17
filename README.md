@@ -11,7 +11,7 @@ Der Spotify Top 50-Datensatz enthält keine persönlichen Nutzer- oder Hörerdat
 ## Datensatzfelder
 
 - **spotify_id**: Eindeutiger Bezeichner für den Song in Spotify
-- **Name**: Der Titel des Liedes
+- **Name**: Der Titel des Songs
 - **artists**: Name(n) des/der Künstler(s), der/die mit dem Lied verbunden ist/sind
 - täglicher_rang**: Täglicher Rang des Liedes in der Top-50-Liste
 - **daily_movement**: Veränderung der Platzierung im Vergleich zum Vortag
