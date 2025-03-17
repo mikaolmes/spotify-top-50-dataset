@@ -27,5 +27,4 @@ Der Spotify Top 50-Datensatz enthält keine persönlichen Nutzer- oder Hörerdat
 Dieser Datensatz kann verwendet werden für:
 - Analyse von Trends in der Musikpopularität über verschiedene Länder hinweg
 - Untersuchung von saisonalen Schwankungen in den Musikpräferenzen
-- Untersuchung von der Beziehung zwischen explizitem Inhalt und Popularität
 - Verfolgung der Leistung von Künstlern in den Charts im Laufe der Zeit
