@@ -28,3 +28,7 @@ Dieser Datensatz kann verwendet werden für:
 - Analyse von Trends in der Musikpopularität über verschiedene Länder hinweg
 - Untersuchung von saisonalen Schwankungen in den Musikpräferenzen
 - Verfolgung der Leistung von Künstlern in den Charts im Laufe der Zeit
+
+
+## TO-DO
+- Überlegen was ich mit diesem Datensatz hervorsagen möchte
