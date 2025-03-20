@@ -31,4 +31,6 @@ Dieser Datensatz kann verwendet werden für:
 
 
 ## TO-DO
-- Überlegen was ich mit diesem Datensatz hervorsagen möchte
+- [ ] Überlegen was ich mit diesem Datensatz hervorsagen möchte
+- [ ] Mit welchen Daten möchte ich etwas hervorsagen
+- [ ] Entscheidungsbaum erstellen
